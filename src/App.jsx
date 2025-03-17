@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      <div>{quote}</div>
+      <div>{quote} <p>-Kanye</p></div>
     </>
   );
 }
