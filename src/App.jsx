@@ -1,6 +1,4 @@
 import { useState, useEffect } from 'react';
-import reactLogo from './assets/react.svg';
-import viteLogo from '/vite.svg';
 import Container from './components/container/container';
 
 function App() {
@@ -33,7 +31,7 @@ function App() {
         </div>
       </div>
       <button
-        className="bg-white inline w-fit px-5 py-3 cursor-pointer scale-100 hover:scale-110 transition-all ease-in-out duration-300 rounded-md hover:font-semibold hover:drop-shadow-[0_0_15px_rgba(255,255,255,0.25)]"
+        className="bg-white inline w-fit px-5 py-3 cursor-pointer scale-100 hover:scale-110 transition-all ease-in-out duration-300 rounded-md hover:font-semibold hover:drop-shadow-[0_0_15px_rgba(255,255,255,0.25)] mb-[100px]"
         onClick={fetchData}
       >
         KANYE ALSO SAID
