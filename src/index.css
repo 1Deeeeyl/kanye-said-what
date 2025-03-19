@@ -54,3 +54,7 @@
 @theme {
   --font-big-shoulders: 'Big Shoulders', sans-serif;
 }
+
+body{
+  background-color: #2F2F2F
+}
